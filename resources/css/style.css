@@ -21,3 +21,9 @@ a
   color: white;
   font-size: 18px;
 }
+
+.strapline
+{
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
